@@ -11,7 +11,7 @@ Utilizado como base do HTML o tema [Electro da ThemeWagon](https://themewagon.co
 - Interface e páginas dinamicas
 - Alteração de bancos de dados altera o site dinamicamente
 - Cachebuster para imagens de produtos
-- Área de manuntenção com login de admin
+- Área de manunteção com login de admin
 - Prototipo de área de relatórios
 
 ## Banco de Dados
